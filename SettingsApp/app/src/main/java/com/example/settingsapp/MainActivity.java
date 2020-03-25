@@ -32,8 +32,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        PreferenceManager.setDefaultValues(this,R.xml.root_preferences,false);
-
         textView = findViewById(R.id.hello);
         textView.setTextColor(Color.MAGENTA);
         input = findViewById(R.id.input);

@@ -28,10 +28,11 @@ public class SettingsActivity extends AppCompatActivity {
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true);
         }
+        PreferenceManager.setDefaultValues(this,R.xml.root_preferences,false);
 
-        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
-        boolean switch_pref = sharedPref.getBoolean("theme",false);
-        Toast.makeText(this, String.valueOf(switch_pref), Toast.LENGTH_SHORT).show();
+//        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
+//        boolean switch_pref = sharedPref.getBoolean("theme",false);
+//        Toast.makeText(this, String.valueOf(switch_pref), Toast.LENGTH_SHORT).show();
     }
 
     public static class SettingsFragment extends PreferenceFragmentCompat {
