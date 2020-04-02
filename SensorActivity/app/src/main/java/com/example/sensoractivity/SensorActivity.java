@@ -128,7 +128,6 @@ public class SensorActivity extends AppCompatActivity implements SensorEventList
                 == PackageManager.PERMISSION_GRANTED || ContextCompat.checkSelfPermission(this,
                 Manifest.permission.ACCESS_COARSE_LOCATION)
                 == PackageManager.PERMISSION_GRANTED) {
-
             locationManager.removeUpdates(this);
         }
     }
@@ -150,7 +149,6 @@ public class SensorActivity extends AppCompatActivity implements SensorEventList
 
     @Override
     public void onLocationChanged(Location location) {
-
         float latitude =  (float)(location.getLatitude());
         float longitude = (float)(location.getLongitude());
         StringBuilder sb = new StringBuilder("Latitude: " + latitude + ", Longitude: " + longitude);

@@ -6,12 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd6da86f-e286-4cab-a8dd-0c49b7b939f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SensorActivity/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SensorActivity/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SensorActivity/app/src/main/java/com/example/sensoractivity/SensorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SensorActivity/app/src/main/java/com/example/sensoractivity/SensorActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SensorActivity/app/src/main/res/layout/activity_sensor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SensorActivity/app/src/main/res/layout/activity_sensor.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd6da86f-e286-4cab-a8dd-0c49b7b939f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,7 +252,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26678878" />
