@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GuessTheLogo</string>
+    <string name="welcome">WELCOME</string>
+    <string name="to">to</string>
+    <string name="guess_the_logo">Guess the Logo!</string>
+    <string name="play">play</string>
+    <string name="new_game">New Game</string>
+    <string name="highscore">Highscore</string>
+    <string name="share_score">Share score</string>
+    <string name="logoName">Write the logo name</string>
+    <string name="next">Next</string>
+    <string name="logo_picture">logo picture</string>
+    <string name="nextButton">Next</string>
+    <string name="logo">logo</string>
+    <string name="timer">timer</string>
+    <string name="refresh">refresh text</string>
+    <string name="result">Result</string>
+    <string name="menu">Menu</string>
+    <string name="play_again">Play again</string>
+    <string name="score">score</string>
+    <string name="name">Enter your name</string>
+    <string name="highscores">Highscores</string>
+</resources>
